@@ -1,0 +1,33 @@
+@startuml
+
+participant 企业微信主页面 as main
+
+participant 通讯录页面 as contact
+
+participant 添加成员页面 as add_member
+
+participant 添加子部门页面 as add_department
+
+participant 导入通讯录页面 as import_file
+
+main -> contact: 点击通讯录按钮
+main -> add_member: 点击添加成员按钮
+main -> import_file: 点击导入通讯录
+contact -> contact: 获取成员列表
+contact -> contact: 查看成员详情
+contact -> contact: 查看子部门
+contact -> contact: 查看新成员
+add_member -> contact: 1.添加新成员 \n     2.保存
+add_member -> add_member: 1.保存新成员 \n2.保存并继续添加
+add_member -> contact: 1.添加新成员 \n2.取消
+contact -> add_department: 点击添加子部门
+add_department-> contact: 点击确认
+add_department-> contact: 点击取消
+contact -> contact: 删除部门
+contact -> contact: 删除成员
+contact -> contact: 设置成员的部门
+contact -> import_file: 1.点击批量导入 \n2.点击文件导入
+import_file -> contact: 1.点击上传文件 \n2.确认导入
+import_file -> contact: 点击返回
+import_file -> import_file: 1.点击上传文件 \n2.重新上传
+@enduml

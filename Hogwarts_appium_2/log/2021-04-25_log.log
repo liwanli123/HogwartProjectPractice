@@ -1,0 +1,178 @@
+2021-04-25 18:23:30.265 | INFO     | Hogwarts_appium_2.page.app:start:16 - driver为None
+2021-04-25 18:23:38.724 | INFO     | Hogwarts_appium_2.page.app:start:32 - 初始化 driver :<appium.webdriver.webdriver.WebDriver (session="97e15311-9356-49cc-815b-d50c6aa94561")>
+2021-04-25 18:23:38.727 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:23:38.728 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='通讯录']
+2021-04-25 18:23:41.287 | INFO     | Hogwarts_appium_2.page.contactlist_page:goto_addmember:17 - 寻找添加成员按钮
+2021-04-25 18:23:41.730 | INFO     | Hogwarts_appium_2.page.add_member_page:addmember_bymenual:14 - 手动输入添加
+2021-04-25 18:23:41.730 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:23:41.730 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='手动输入添加']
+2021-04-25 18:23:44.210 | INFO     | Hogwarts_appium_2.page.edit_member_page:edit_member:19 - 保存用户：('姜玉珍', '13259134690')
+2021-04-25 18:23:44.210 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:23:44.210 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[contains(@text,'姓名')]/../android.widget.EditText
+2021-04-25 18:23:45.406 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:23:45.406 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[contains(@text,'手机')]/..//android.widget.EditText
+2021-04-25 18:23:45.467 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:23:45.467 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='保存']
+2021-04-25 18:23:45.521 | INFO     | Hogwarts_appium_2.page.add_member_page:find_toast:22 - 添加成功
+2021-04-25 18:23:45.521 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:23:45.521 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='添加成功']
+2021-04-25 18:23:46.768 | INFO     | Hogwarts_appium_2.page.app:restart:43 - 执行重启APP
+2021-04-25 18:23:51.485 | INFO     | Hogwarts_appium_2.page.app:stop:50 - 销毁driver:<appium.webdriver.webdriver.WebDriver (session="97e15311-9356-49cc-815b-d50c6aa94561")>
+2021-04-25 18:23:56.203 | INFO     | Hogwarts_appium_2.page.app:start:16 - driver为None
+2021-04-25 18:24:03.977 | INFO     | Hogwarts_appium_2.page.app:start:32 - 初始化 driver :<appium.webdriver.webdriver.WebDriver (session="2253610b-0976-45c9-a1aa-2a019de0e8c9")>
+2021-04-25 18:24:03.981 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:03.981 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='通讯录']
+2021-04-25 18:24:10.975 | INFO     | Hogwarts_appium_2.page.base_page:finds:33 - 定位方式为xpath
+2021-04-25 18:24:10.975 | INFO     | Hogwarts_appium_2.page.base_page:finds:34 - 定位元素为//*[@text='添加成员']/../../../../../..//android.widget.TextView
+2021-04-25 18:24:11.263 | INFO     | Hogwarts_appium_2.page.contactlist_page:get_list:43 - get_list返回列表为：['李万里', '姜玉珍']
+2021-04-25 18:24:11.264 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:11.264 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='通讯录']
+2021-04-25 18:24:11.349 | INFO     | Hogwarts_appium_2.page.contactlist_page:goto_deletemember:23 - 选择删除用户：姜玉珍
+2021-04-25 18:24:11.419 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:11.419 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='个人信息']/../../../../..//android.widget.RelativeLayout/android.widget.TextView
+2021-04-25 18:24:12.438 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:12.438 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='编辑成员']
+2021-04-25 18:24:13.234 | INFO     | Hogwarts_appium_2.page.edit_member_page:edit_member_delete:41 - 执行删除操作
+2021-04-25 18:24:14.056 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:14.056 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='确定']
+2021-04-25 18:24:18.827 | INFO     | Hogwarts_appium_2.page.base_page:finds:33 - 定位方式为xpath
+2021-04-25 18:24:18.827 | INFO     | Hogwarts_appium_2.page.base_page:finds:34 - 定位元素为//*[@text='添加成员']/../../../../../..//android.widget.TextView
+2021-04-25 18:24:18.958 | INFO     | Hogwarts_appium_2.page.contactlist_page:get_list:43 - get_list返回列表为：['李万里']
+2021-04-25 18:24:18.959 | INFO     | Hogwarts_appium_2.page.app:restart:43 - 执行重启APP
+2021-04-25 18:24:23.939 | INFO     | Hogwarts_appium_2.page.app:stop:50 - 销毁driver:<appium.webdriver.webdriver.WebDriver (session="2253610b-0976-45c9-a1aa-2a019de0e8c9")>
+2021-04-25 18:24:35.805 | INFO     | Hogwarts_appium_2.page.app:start:16 - driver为None
+2021-04-25 18:24:44.266 | INFO     | Hogwarts_appium_2.page.app:start:32 - 初始化 driver :<appium.webdriver.webdriver.WebDriver (session="af86dc71-d8ad-4c81-bf87-21b7a3c6e466")>
+2021-04-25 18:24:44.269 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:44.269 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='通讯录']
+2021-04-25 18:24:47.682 | INFO     | Hogwarts_appium_2.page.contactlist_page:goto_addmember:17 - 寻找添加成员按钮
+2021-04-25 18:24:47.917 | INFO     | Hogwarts_appium_2.page.add_member_page:addmember_bymenual:14 - 手动输入添加
+2021-04-25 18:24:47.918 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:47.918 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='手动输入添加']
+2021-04-25 18:24:48.902 | INFO     | Hogwarts_appium_2.page.edit_member_page:edit_member_again:30 - 保存用户：('胡国锋', '13554559499')
+2021-04-25 18:24:48.902 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:48.903 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[contains(@text,'姓名')]/../android.widget.EditText
+2021-04-25 18:24:50.103 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:50.103 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[contains(@text,'手机')]/..//android.widget.EditText
+2021-04-25 18:24:50.190 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:50.190 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='保存并继续添加']
+2021-04-25 18:24:50.255 | INFO     | Hogwarts_appium_2.page.add_member_page:find_toast:22 - 添加成功
+2021-04-25 18:24:50.256 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:50.256 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='添加成功']
+2021-04-25 18:24:51.773 | INFO     | Hogwarts_appium_2.page.edit_member_page:edit_member_again:30 - 保存用户：('唐国强', '13548582989')
+2021-04-25 18:24:51.774 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:51.774 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[contains(@text,'姓名')]/../android.widget.EditText
+2021-04-25 18:24:51.992 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:51.993 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[contains(@text,'手机')]/..//android.widget.EditText
+2021-04-25 18:24:52.149 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:52.149 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='保存并继续添加']
+2021-04-25 18:24:52.251 | INFO     | Hogwarts_appium_2.page.add_member_page:find_toast:22 - 添加成功
+2021-04-25 18:24:52.251 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:52.251 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='添加成功']
+2021-04-25 18:24:52.343 | INFO     | Hogwarts_appium_2.page.edit_member_page:edit_member_again:30 - 保存用户：('王健', '18734030043')
+2021-04-25 18:24:52.344 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:52.344 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[contains(@text,'姓名')]/../android.widget.EditText
+2021-04-25 18:24:53.509 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:53.509 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[contains(@text,'手机')]/..//android.widget.EditText
+2021-04-25 18:24:53.590 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:53.591 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='保存并继续添加']
+2021-04-25 18:24:53.708 | INFO     | Hogwarts_appium_2.page.add_member_page:find_toast:22 - 添加成功
+2021-04-25 18:24:53.708 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:53.708 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='添加成功']
+2021-04-25 18:24:53.784 | INFO     | Hogwarts_appium_2.page.edit_member_page:edit_member_again:30 - 保存用户：('黄玉', '15558809582')
+2021-04-25 18:24:53.784 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:53.784 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[contains(@text,'姓名')]/../android.widget.EditText
+2021-04-25 18:24:54.888 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:54.888 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[contains(@text,'手机')]/..//android.widget.EditText
+2021-04-25 18:24:54.954 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:54.955 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='保存并继续添加']
+2021-04-25 18:24:54.998 | INFO     | Hogwarts_appium_2.page.add_member_page:find_toast:22 - 添加成功
+2021-04-25 18:24:54.998 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:54.998 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='添加成功']
+2021-04-25 18:24:55.081 | INFO     | Hogwarts_appium_2.page.edit_member_page:edit_member_again:30 - 保存用户：('袁娜', '15272096849')
+2021-04-25 18:24:55.081 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:55.081 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[contains(@text,'姓名')]/../android.widget.EditText
+2021-04-25 18:24:56.266 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:56.266 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[contains(@text,'手机')]/..//android.widget.EditText
+2021-04-25 18:24:56.323 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:56.324 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='保存并继续添加']
+2021-04-25 18:24:56.380 | INFO     | Hogwarts_appium_2.page.add_member_page:find_toast:22 - 添加成功
+2021-04-25 18:24:56.381 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:24:56.381 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='添加成功']
+2021-04-25 18:24:56.466 | INFO     | Hogwarts_appium_2.page.app:stop:50 - 销毁driver:<appium.webdriver.webdriver.WebDriver (session="af86dc71-d8ad-4c81-bf87-21b7a3c6e466")>
+2021-04-25 18:25:02.818 | INFO     | Hogwarts_appium_2.page.app:start:16 - driver为None
+2021-04-25 18:25:10.897 | INFO     | Hogwarts_appium_2.page.app:start:32 - 初始化 driver :<appium.webdriver.webdriver.WebDriver (session="a14e6979-fd57-4014-8929-ccc64512c79e")>
+2021-04-25 18:25:10.901 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:25:10.901 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='通讯录']
+2021-04-25 18:25:13.509 | INFO     | Hogwarts_appium_2.page.contactlist_page:goto_deletemember:23 - 选择删除用户：胡国锋
+2021-04-25 18:25:13.906 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:25:13.906 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='个人信息']/../../../../..//android.widget.RelativeLayout/android.widget.TextView
+2021-04-25 18:25:15.653 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:25:15.653 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='编辑成员']
+2021-04-25 18:25:16.490 | INFO     | Hogwarts_appium_2.page.edit_member_page:edit_member_delete:41 - 执行删除操作
+2021-04-25 18:25:17.313 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:25:17.313 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='确定']
+2021-04-25 18:25:22.095 | INFO     | Hogwarts_appium_2.page.base_page:finds:33 - 定位方式为xpath
+2021-04-25 18:25:22.095 | INFO     | Hogwarts_appium_2.page.base_page:finds:34 - 定位元素为//*[@text='添加成员']/../../../../../..//android.widget.TextView
+2021-04-25 18:25:22.460 | INFO     | Hogwarts_appium_2.page.contactlist_page:get_list:43 - get_list返回列表为：['李万里', '唐国强', '王健', '黄玉', '袁娜']
+2021-04-25 18:25:22.461 | INFO     | Hogwarts_appium_2.page.app:restart:43 - 执行重启APP
+2021-04-25 18:25:27.346 | INFO     | Hogwarts_appium_2.page.app:start:36 - 复用 driver:<appium.webdriver.webdriver.WebDriver (session="a14e6979-fd57-4014-8929-ccc64512c79e")>
+2021-04-25 18:25:31.515 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:25:31.515 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='通讯录']
+2021-04-25 18:25:33.832 | INFO     | Hogwarts_appium_2.page.contactlist_page:goto_deletemember:23 - 选择删除用户：唐国强
+2021-04-25 18:25:34.721 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:25:34.721 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='个人信息']/../../../../..//android.widget.RelativeLayout/android.widget.TextView
+2021-04-25 18:25:36.570 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:25:36.571 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='编辑成员']
+2021-04-25 18:25:37.233 | INFO     | Hogwarts_appium_2.page.edit_member_page:edit_member_delete:41 - 执行删除操作
+2021-04-25 18:25:38.008 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:25:38.008 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='确定']
+2021-04-25 18:25:42.734 | INFO     | Hogwarts_appium_2.page.base_page:finds:33 - 定位方式为xpath
+2021-04-25 18:25:42.734 | INFO     | Hogwarts_appium_2.page.base_page:finds:34 - 定位元素为//*[@text='添加成员']/../../../../../..//android.widget.TextView
+2021-04-25 18:25:43.062 | INFO     | Hogwarts_appium_2.page.contactlist_page:get_list:43 - get_list返回列表为：['李万里', '王健', '黄玉', '袁娜']
+2021-04-25 18:25:43.063 | INFO     | Hogwarts_appium_2.page.app:restart:43 - 执行重启APP
+2021-04-25 18:25:47.904 | INFO     | Hogwarts_appium_2.page.app:start:36 - 复用 driver:<appium.webdriver.webdriver.WebDriver (session="a14e6979-fd57-4014-8929-ccc64512c79e")>
+2021-04-25 18:25:52.328 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:25:52.328 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='通讯录']
+2021-04-25 18:25:55.534 | INFO     | Hogwarts_appium_2.page.contactlist_page:goto_deletemember:23 - 选择删除用户：王健
+2021-04-25 18:25:56.072 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:25:56.072 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='个人信息']/../../../../..//android.widget.RelativeLayout/android.widget.TextView
+2021-04-25 18:25:57.633 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:25:57.633 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='编辑成员']
+2021-04-25 18:25:58.385 | INFO     | Hogwarts_appium_2.page.edit_member_page:edit_member_delete:41 - 执行删除操作
+2021-04-25 18:25:59.307 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:25:59.307 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='确定']
+2021-04-25 18:26:04.174 | INFO     | Hogwarts_appium_2.page.base_page:finds:33 - 定位方式为xpath
+2021-04-25 18:26:04.174 | INFO     | Hogwarts_appium_2.page.base_page:finds:34 - 定位元素为//*[@text='添加成员']/../../../../../..//android.widget.TextView
+2021-04-25 18:26:04.554 | INFO     | Hogwarts_appium_2.page.contactlist_page:get_list:43 - get_list返回列表为：['李万里', '黄玉', '袁娜']
+2021-04-25 18:26:04.555 | INFO     | Hogwarts_appium_2.page.app:restart:43 - 执行重启APP
+2021-04-25 18:26:09.395 | INFO     | Hogwarts_appium_2.page.app:start:36 - 复用 driver:<appium.webdriver.webdriver.WebDriver (session="a14e6979-fd57-4014-8929-ccc64512c79e")>
+2021-04-25 18:26:14.752 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:26:14.753 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='通讯录']
+2021-04-25 18:26:17.212 | INFO     | Hogwarts_appium_2.page.contactlist_page:goto_deletemember:23 - 选择删除用户：黄玉
+2021-04-25 18:26:17.626 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:26:17.627 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='个人信息']/../../../../..//android.widget.RelativeLayout/android.widget.TextView
+2021-04-25 18:26:19.680 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:26:19.680 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='编辑成员']
+2021-04-25 18:26:20.345 | INFO     | Hogwarts_appium_2.page.edit_member_page:edit_member_delete:41 - 执行删除操作
+2021-04-25 18:26:21.243 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:26:21.243 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='确定']
+2021-04-25 18:26:26.018 | INFO     | Hogwarts_appium_2.page.base_page:finds:33 - 定位方式为xpath
+2021-04-25 18:26:26.018 | INFO     | Hogwarts_appium_2.page.base_page:finds:34 - 定位元素为//*[@text='添加成员']/../../../../../..//android.widget.TextView
+2021-04-25 18:26:26.227 | INFO     | Hogwarts_appium_2.page.contactlist_page:get_list:43 - get_list返回列表为：['李万里', '袁娜']
+2021-04-25 18:26:26.228 | INFO     | Hogwarts_appium_2.page.app:restart:43 - 执行重启APP
+2021-04-25 18:26:31.531 | INFO     | Hogwarts_appium_2.page.app:start:36 - 复用 driver:<appium.webdriver.webdriver.WebDriver (session="a14e6979-fd57-4014-8929-ccc64512c79e")>
+2021-04-25 18:26:36.775 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:26:36.776 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='通讯录']
+2021-04-25 18:26:39.613 | INFO     | Hogwarts_appium_2.page.contactlist_page:goto_deletemember:23 - 选择删除用户：袁娜
+2021-04-25 18:26:40.395 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:26:40.395 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='个人信息']/../../../../..//android.widget.RelativeLayout/android.widget.TextView
+2021-04-25 18:26:42.180 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:26:42.180 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='编辑成员']
+2021-04-25 18:26:42.824 | INFO     | Hogwarts_appium_2.page.edit_member_page:edit_member_delete:41 - 执行删除操作
+2021-04-25 18:26:43.843 | INFO     | Hogwarts_appium_2.page.base_page:find:27 - 定位方式为xpath
+2021-04-25 18:26:43.843 | INFO     | Hogwarts_appium_2.page.base_page:find:28 - 定位元素为//*[@text='确定']
+2021-04-25 18:26:48.590 | INFO     | Hogwarts_appium_2.page.base_page:finds:33 - 定位方式为xpath
+2021-04-25 18:26:48.590 | INFO     | Hogwarts_appium_2.page.base_page:finds:34 - 定位元素为//*[@text='添加成员']/../../../../../..//android.widget.TextView
+2021-04-25 18:26:48.730 | INFO     | Hogwarts_appium_2.page.contactlist_page:get_list:43 - get_list返回列表为：['李万里']
+2021-04-25 18:26:48.731 | INFO     | Hogwarts_appium_2.page.app:restart:43 - 执行重启APP
+2021-04-25 18:26:53.843 | INFO     | Hogwarts_appium_2.page.app:stop:50 - 销毁driver:<appium.webdriver.webdriver.WebDriver (session="a14e6979-fd57-4014-8929-ccc64512c79e")>

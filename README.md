@@ -12,3 +12,4 @@
 - [Web 企业微信实战2](https://github.com/liwanli123/HogwartProjectPractice/tree/master/Hogwarts_PageObject)
 - [app 企业微信实战1](https://github.com/liwanli123/HogwartProjectPractice/tree/master/Hogwarts_appium_1)
 - [app 企业微信实战2](https://github.com/liwanli123/HogwartProjectPractice/tree/master/Hogwarts_appium_2)
+- [mock实战2](https://github.com/liwanli123/HogwartProjectPractice/tree/master/test_mock)

@@ -1,0 +1,867 @@
+2021-05-28 21:38:39.650 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:38:39.650 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式url
+2021-05-28 21:38:39.650 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能member
+2021-05-28 21:38:39.650 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作None
+2021-05-28 21:38:39.652 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:38:39.652 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式url
+2021-05-28 21:38:39.652 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能department
+2021-05-28 21:38:39.652 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作None
+2021-05-28 21:38:39.654 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:38:39.654 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:38:39.654 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能member
+2021-05-28 21:38:39.654 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作create
+2021-05-28 21:38:39.656 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:38:39.656 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:38:39.656 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能member
+2021-05-28 21:38:39.656 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作search
+2021-05-28 21:38:39.658 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:38:39.658 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:38:39.658 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能member
+2021-05-28 21:38:39.659 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作delete
+2021-05-28 21:38:39.660 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:38:39.660 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:38:39.661 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能member
+2021-05-28 21:38:39.661 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作deletelist
+2021-05-28 21:38:39.663 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:38:39.663 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:38:39.663 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能department
+2021-05-28 21:38:39.663 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作search
+2021-05-28 21:38:39.665 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:9 - 调用了get_ApiData
+2021-05-28 21:38:39.665 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:10 - 使用的是:Membersecret
+2021-05-28 21:38:39.845 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:38:39.845 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式url
+2021-05-28 21:38:39.845 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能tag
+2021-05-28 21:38:39.845 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作None
+2021-05-28 21:38:39.847 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:38:39.847 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:38:39.847 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能tag
+2021-05-28 21:38:39.847 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作add
+2021-05-28 21:38:39.849 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:38:39.849 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:38:39.849 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能tag
+2021-05-28 21:38:39.849 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作search
+2021-05-28 21:38:39.851 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:38:39.851 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:38:39.851 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能tag
+2021-05-28 21:38:39.852 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作delete
+2021-05-28 21:38:39.854 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:9 - 调用了get_ApiData
+2021-05-28 21:38:39.854 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:10 - 使用的是:Tagsecret
+2021-05-28 21:42:14.532 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:14.532 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式url
+2021-05-28 21:42:14.532 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能member
+2021-05-28 21:42:14.532 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作None
+2021-05-28 21:42:14.534 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:14.534 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式url
+2021-05-28 21:42:14.534 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能department
+2021-05-28 21:42:14.534 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作None
+2021-05-28 21:42:14.536 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:14.536 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:42:14.536 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能member
+2021-05-28 21:42:14.536 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作create
+2021-05-28 21:42:14.538 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:14.538 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:42:14.538 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能member
+2021-05-28 21:42:14.539 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作search
+2021-05-28 21:42:14.540 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:14.540 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:42:14.540 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能member
+2021-05-28 21:42:14.540 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作delete
+2021-05-28 21:42:14.542 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:14.542 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:42:14.542 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能member
+2021-05-28 21:42:14.543 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作deletelist
+2021-05-28 21:42:14.544 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:14.544 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:42:14.545 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能department
+2021-05-28 21:42:14.545 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作search
+2021-05-28 21:42:14.547 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:9 - 调用了get_ApiData
+2021-05-28 21:42:14.547 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:10 - 使用的是:Membersecret
+2021-05-28 21:42:14.548 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:14.744 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "EWWE9X7623W0rTJ7XrJUmDrN8KVJ_4zaa3SCf_hy10XirGv-xJLT7UPDepA56NlWYQ2bTFCxmfA43zn8mr2fC3mpJCJqjo0ckvop3K97m-dXVt4yllOLKkopaiah64aTscPfU4DKIR4yBm8TIwDxa9QVk7-8PndTVt-lSohTj3vNfX3ZMV5lb9R4LlgSe3vkTs264xGhF9OyJsUn3nwF5w",
+  "expires_in": 7200
+}
+2021-05-28 21:42:14.744 | INFO     | weixin_api_two.api.contact.get_wework_token:get_token:19 - 获取的token:EWWE9X7623W0rTJ7XrJUmDrN8KVJ_4zaa3SCf_hy10XirGv-xJLT7UPDepA56NlWYQ2bTFCxmfA43zn8mr2fC3mpJCJqjo0ckvop3K97m-dXVt4yllOLKkopaiah64aTscPfU4DKIR4yBm8TIwDxa9QVk7-8PndTVt-lSohTj3vNfX3ZMV5lb9R4LlgSe3vkTs264xGhF9OyJsUn3nwF5w
+2021-05-28 21:42:14.744 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:14.980 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "userlist": [
+    {
+      "userid": "LiWanLi",
+      "name": "李万里",
+      "department": [
+        1
+      ]
+    },
+    {
+      "userid": "BmDKEtCtnNCngMHWNryq",
+      "name": "马慧",
+      "department": [
+        1
+      ]
+    }
+  ]
+}
+2021-05-28 21:42:14.985 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:9 - 调用了get_ApiData
+2021-05-28 21:42:14.985 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:10 - 使用的是:Administrator
+2021-05-28 21:42:14.986 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:15.322 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "deleted"
+}
+2021-05-28 21:42:15.741 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:15.741 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式url
+2021-05-28 21:42:15.741 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能tag
+2021-05-28 21:42:15.741 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作None
+2021-05-28 21:42:15.743 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:15.743 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:42:15.743 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能tag
+2021-05-28 21:42:15.744 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作add
+2021-05-28 21:42:15.745 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:15.745 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:42:15.746 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能tag
+2021-05-28 21:42:15.746 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作search
+2021-05-28 21:42:15.748 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:15.748 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:42:15.748 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能tag
+2021-05-28 21:42:15.749 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作delete
+2021-05-28 21:42:15.750 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:9 - 调用了get_ApiData
+2021-05-28 21:42:15.751 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:10 - 使用的是:Tagsecret
+2021-05-28 21:42:15.751 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:15.951 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "en2Ba11KCPCw8hzOs0r3y8L914-EtlOFbDZOnRlrMswKKpPWzA_lunT9U9t5fhLSYpoJh9ZdQgqGJc4d4XfdwLWz3MnBKYwyaLn2WJahS6CdV3nu74w5hOEIzHv2D-xBMJy_KbUx2k6QAHteRqyW18sb6iHz6R8W5n0t00hmKabhDoqSXF1XuJ11aGTIeKlNBd79Kkoe9MyTI63e9j9Ehg",
+  "expires_in": 7200
+}
+2021-05-28 21:42:15.951 | INFO     | weixin_api_two.api.contact.get_wework_token:get_token:19 - 获取的token:en2Ba11KCPCw8hzOs0r3y8L914-EtlOFbDZOnRlrMswKKpPWzA_lunT9U9t5fhLSYpoJh9ZdQgqGJc4d4XfdwLWz3MnBKYwyaLn2WJahS6CdV3nu74w5hOEIzHv2D-xBMJy_KbUx2k6QAHteRqyW18sb6iHz6R8W5n0t00hmKabhDoqSXF1XuJ11aGTIeKlNBd79Kkoe9MyTI63e9j9Ehg
+2021-05-28 21:42:15.951 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:16.156 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": []
+}
+2021-05-28 21:42:16.157 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:16.321 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 41017,
+  "errmsg": "missing tagid, hint: [1622209336_162_919809689be6d74f78a9592920b24f1a], from ip: 61.152.208.156, more info at https://open.work.weixin.qq.com/devtool/query?e=41017"
+}
+2021-05-28 21:42:48.101 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:48.101 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式url
+2021-05-28 21:42:48.101 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能member
+2021-05-28 21:42:48.101 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作None
+2021-05-28 21:42:48.103 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:48.103 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式url
+2021-05-28 21:42:48.103 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能department
+2021-05-28 21:42:48.103 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作None
+2021-05-28 21:42:48.105 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:48.105 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:42:48.105 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能member
+2021-05-28 21:42:48.106 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作create
+2021-05-28 21:42:48.107 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:48.107 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:42:48.108 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能member
+2021-05-28 21:42:48.108 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作search
+2021-05-28 21:42:48.110 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:48.110 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:42:48.110 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能member
+2021-05-28 21:42:48.110 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作delete
+2021-05-28 21:42:48.112 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:48.112 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:42:48.112 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能member
+2021-05-28 21:42:48.112 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作deletelist
+2021-05-28 21:42:48.114 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:48.114 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:42:48.114 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能department
+2021-05-28 21:42:48.114 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作search
+2021-05-28 21:42:48.116 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:9 - 调用了get_ApiData
+2021-05-28 21:42:48.116 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:10 - 使用的是:Membersecret
+2021-05-28 21:42:48.117 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:48.315 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "EWWE9X7623W0rTJ7XrJUmDrN8KVJ_4zaa3SCf_hy10XirGv-xJLT7UPDepA56NlWYQ2bTFCxmfA43zn8mr2fC3mpJCJqjo0ckvop3K97m-dXVt4yllOLKkopaiah64aTscPfU4DKIR4yBm8TIwDxa9QVk7-8PndTVt-lSohTj3vNfX3ZMV5lb9R4LlgSe3vkTs264xGhF9OyJsUn3nwF5w",
+  "expires_in": 7200
+}
+2021-05-28 21:42:48.315 | INFO     | weixin_api_two.api.contact.get_wework_token:get_token:19 - 获取的token:EWWE9X7623W0rTJ7XrJUmDrN8KVJ_4zaa3SCf_hy10XirGv-xJLT7UPDepA56NlWYQ2bTFCxmfA43zn8mr2fC3mpJCJqjo0ckvop3K97m-dXVt4yllOLKkopaiah64aTscPfU4DKIR4yBm8TIwDxa9QVk7-8PndTVt-lSohTj3vNfX3ZMV5lb9R4LlgSe3vkTs264xGhF9OyJsUn3nwF5w
+2021-05-28 21:42:48.315 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:48.523 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "userlist": [
+    {
+      "userid": "LiWanLi",
+      "name": "李万里",
+      "department": [
+        1
+      ]
+    }
+  ]
+}
+2021-05-28 21:42:48.526 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:9 - 调用了get_ApiData
+2021-05-28 21:42:48.526 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:10 - 使用的是:Administrator
+2021-05-28 21:42:48.527 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:48.712 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 40063,
+  "errmsg": "some parameters are empty, hint: [1622209368_197_b0cb248a4aac458323a5d18ea55e1243], from ip: 61.152.208.156, more info at https://open.work.weixin.qq.com/devtool/query?e=40063"
+}
+2021-05-28 21:42:48.768 | INFO     | weixin_api_two.uitls.contact_info:get_pystr:23 - pystr数据：pscEuCPRNPUmgJbRdXwR
+2021-05-28 21:42:48.811 | INFO     | weixin_api_two.uitls.contact_info:get_name:18 - name数据：王利
+2021-05-28 21:42:48.854 | INFO     | weixin_api_two.uitls.contact_info:get_phonenum:28 - phonenum 数据：14585076735
+2021-05-28 21:42:48.897 | INFO     | weixin_api_two.uitls.contact_info:get_email:33 - email数据：ecao@gmail.com
+2021-05-28 21:42:48.898 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:49.082 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "department": [
+    {
+      "id": 1,
+      "name": "Leewanly",
+      "parentid": 0,
+      "order": 100000000
+    },
+    {
+      "id": 2,
+      "name": "的撒啊",
+      "parentid": 1,
+      "order": 100000000
+    }
+  ]
+}
+2021-05-28 21:42:49.129 | INFO     | weixin_api_two.uitls.contact_info:get_pystr:23 - pystr数据：ELvcNqrYzHHcWlVMFjvJ
+2021-05-28 21:42:49.174 | INFO     | weixin_api_two.uitls.contact_info:get_name:18 - name数据：李桂兰
+2021-05-28 21:42:49.217 | INFO     | weixin_api_two.uitls.contact_info:get_phonenum:28 - phonenum 数据：18950937051
+2021-05-28 21:42:49.260 | INFO     | weixin_api_two.uitls.contact_info:get_email:33 - email数据：dyuan@hotmail.com
+2021-05-28 21:42:49.261 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:49.472 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "userlist": [
+    {
+      "userid": "LiWanLi",
+      "name": "李万里",
+      "department": [
+        1
+      ]
+    }
+  ]
+}
+2021-05-28 21:42:49.520 | INFO     | weixin_api_two.uitls.contact_info:get_pystr:23 - pystr数据：rbvuUMbWTQSeAwmPwORY
+2021-05-28 21:42:49.567 | INFO     | weixin_api_two.uitls.contact_info:get_name:18 - name数据：梁强
+2021-05-28 21:42:49.613 | INFO     | weixin_api_two.uitls.contact_info:get_phonenum:28 - phonenum 数据：18151425349
+2021-05-28 21:42:49.659 | INFO     | weixin_api_two.uitls.contact_info:get_email:33 - email数据：ichang@haosong.cn
+2021-05-28 21:42:49.660 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:50.175 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-05-28 21:42:50.177 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:50.377 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "userlist": [
+    {
+      "userid": "rbvuUMbWTQSeAwmPwORY",
+      "name": "梁强",
+      "department": [
+        1
+      ]
+    },
+    {
+      "userid": "LiWanLi",
+      "name": "李万里",
+      "department": [
+        1
+      ]
+    }
+  ]
+}
+2021-05-28 21:42:50.424 | INFO     | weixin_api_two.uitls.contact_info:get_pystr:23 - pystr数据：pVfwfVLhdFIraEQoLsUG
+2021-05-28 21:42:50.466 | INFO     | weixin_api_two.uitls.contact_info:get_name:18 - name数据：李雷
+2021-05-28 21:42:50.509 | INFO     | weixin_api_two.uitls.contact_info:get_phonenum:28 - phonenum 数据：15838892787
+2021-05-28 21:42:50.552 | INFO     | weixin_api_two.uitls.contact_info:get_email:33 - email数据：qiangdeng@minlu.cn
+2021-05-28 21:42:50.552 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:51.140 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-05-28 21:42:51.141 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:51.330 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "userlist": [
+    {
+      "userid": "rbvuUMbWTQSeAwmPwORY",
+      "name": "梁强",
+      "department": [
+        1
+      ]
+    },
+    {
+      "userid": "pVfwfVLhdFIraEQoLsUG",
+      "name": "李雷",
+      "department": [
+        1
+      ]
+    },
+    {
+      "userid": "LiWanLi",
+      "name": "李万里",
+      "department": [
+        1
+      ]
+    }
+  ]
+}
+2021-05-28 21:42:51.331 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:9 - 调用了get_ApiData
+2021-05-28 21:42:51.331 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:10 - 使用的是:Administrator
+2021-05-28 21:42:51.333 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:51.664 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "deleted"
+}
+2021-05-28 21:42:51.666 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:51.864 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "userlist": [
+    {
+      "userid": "pVfwfVLhdFIraEQoLsUG",
+      "name": "李雷",
+      "department": [
+        1
+      ]
+    },
+    {
+      "userid": "LiWanLi",
+      "name": "李万里",
+      "department": [
+        1
+      ]
+    }
+  ]
+}
+2021-05-28 21:42:51.872 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:51.872 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式url
+2021-05-28 21:42:51.872 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能tag
+2021-05-28 21:42:51.873 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作None
+2021-05-28 21:42:51.875 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:51.875 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:42:51.875 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能tag
+2021-05-28 21:42:51.875 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作add
+2021-05-28 21:42:51.877 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:51.877 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:42:51.877 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能tag
+2021-05-28 21:42:51.877 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作search
+2021-05-28 21:42:51.879 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:42:51.879 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:42:51.879 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能tag
+2021-05-28 21:42:51.879 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作delete
+2021-05-28 21:42:51.881 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:9 - 调用了get_ApiData
+2021-05-28 21:42:51.881 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:10 - 使用的是:Tagsecret
+2021-05-28 21:42:51.882 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:52.074 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "en2Ba11KCPCw8hzOs0r3y8L914-EtlOFbDZOnRlrMswKKpPWzA_lunT9U9t5fhLSYpoJh9ZdQgqGJc4d4XfdwLWz3MnBKYwyaLn2WJahS6CdV3nu74w5hOEIzHv2D-xBMJy_KbUx2k6QAHteRqyW18sb6iHz6R8W5n0t00hmKabhDoqSXF1XuJ11aGTIeKlNBd79Kkoe9MyTI63e9j9Ehg",
+  "expires_in": 7200
+}
+2021-05-28 21:42:52.074 | INFO     | weixin_api_two.api.contact.get_wework_token:get_token:19 - 获取的token:en2Ba11KCPCw8hzOs0r3y8L914-EtlOFbDZOnRlrMswKKpPWzA_lunT9U9t5fhLSYpoJh9ZdQgqGJc4d4XfdwLWz3MnBKYwyaLn2WJahS6CdV3nu74w5hOEIzHv2D-xBMJy_KbUx2k6QAHteRqyW18sb6iHz6R8W5n0t00hmKabhDoqSXF1XuJ11aGTIeKlNBd79Kkoe9MyTI63e9j9Ehg
+2021-05-28 21:42:52.075 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:52.275 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": []
+}
+2021-05-28 21:42:52.275 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:52.459 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 41017,
+  "errmsg": "missing tagid, hint: [1622209372_206_d042fd729f1ae75b944a99e2cdc004c5], from ip: 61.152.208.156, more info at https://open.work.weixin.qq.com/devtool/query?e=41017"
+}
+2021-05-28 21:42:52.503 | INFO     | weixin_api_two.uitls.contact_info:get_text:38 - tag数据：上海市合山市闵行哈尔滨路n座 424973
+2021-05-28 21:42:52.503 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:52.681 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": []
+}
+2021-05-28 21:42:52.728 | INFO     | weixin_api_two.uitls.contact_info:get_text:38 - tag数据：山西省哈尔滨市梁平董路J座 528352
+2021-05-28 21:42:52.729 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:52.950 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etxVCNEQAAMhsNTNOigsIrcH63cY4UsA",
+    "group_name": "山西省哈尔滨市梁平董路J座 528352",
+    "create_time": 1622209372,
+    "tag": [
+      {
+        "id": "etxVCNEQAAPQ-WiioAHCWlTQliShPlyQ",
+        "name": "山西省哈尔滨市梁平董路J座 528352",
+        "create_time": 1622209372,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-05-28 21:42:52.952 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:53.155 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etxVCNEQAAMhsNTNOigsIrcH63cY4UsA",
+      "group_name": "山西省哈尔滨市梁平董路J座 528352",
+      "create_time": 1622209372,
+      "tag": [
+        {
+          "id": "etxVCNEQAAPQ-WiioAHCWlTQliShPlyQ",
+          "name": "山西省哈尔滨市梁平董路J座 528352",
+          "create_time": 1622209372,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-28 21:42:53.203 | INFO     | weixin_api_two.uitls.contact_info:get_text:38 - tag数据：吉林省淮安县黄浦李路n座 596784
+2021-05-28 21:42:53.203 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:53.398 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etxVCNEQAAMhsNTNOigsIrcH63cY4UsA",
+      "group_name": "山西省哈尔滨市梁平董路J座 528352",
+      "create_time": 1622209372,
+      "tag": [
+        {
+          "id": "etxVCNEQAAPQ-WiioAHCWlTQliShPlyQ",
+          "name": "山西省哈尔滨市梁平董路J座 528352",
+          "create_time": 1622209372,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-28 21:42:53.398 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:53.621 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etxVCNEQAA1tKHze8d7vgw8YKamRkUzA",
+    "group_name": "吉林省淮安县黄浦李路n座 596784",
+    "create_time": 1622209373,
+    "tag": [
+      {
+        "id": "etxVCNEQAAX4-aLbuTSLwWtUP91joAJA",
+        "name": "吉林省淮安县黄浦李路n座 596784",
+        "create_time": 1622209373,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-05-28 21:42:53.621 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:53.874 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-28 21:42:53.875 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:42:54.053 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etxVCNEQAAMhsNTNOigsIrcH63cY4UsA",
+      "group_name": "山西省哈尔滨市梁平董路J座 528352",
+      "create_time": 1622209372,
+      "tag": [
+        {
+          "id": "etxVCNEQAAPQ-WiioAHCWlTQliShPlyQ",
+          "name": "山西省哈尔滨市梁平董路J座 528352",
+          "create_time": 1622209372,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-28 21:45:45.885 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:45:45.885 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式url
+2021-05-28 21:45:45.885 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能member
+2021-05-28 21:45:45.885 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作None
+2021-05-28 21:45:45.887 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:45:45.887 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式url
+2021-05-28 21:45:45.887 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能department
+2021-05-28 21:45:45.887 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作None
+2021-05-28 21:45:45.889 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:45:45.889 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:45:45.889 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能member
+2021-05-28 21:45:45.889 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作create
+2021-05-28 21:45:45.891 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:45:45.891 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:45:45.891 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能member
+2021-05-28 21:45:45.891 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作search
+2021-05-28 21:45:45.893 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:45:45.893 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:45:45.893 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能member
+2021-05-28 21:45:45.893 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作delete
+2021-05-28 21:45:45.895 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:45:45.895 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:45:45.895 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能member
+2021-05-28 21:45:45.896 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作deletelist
+2021-05-28 21:45:45.897 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:45:45.897 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:45:45.898 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能department
+2021-05-28 21:45:45.898 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作search
+2021-05-28 21:45:45.900 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:9 - 调用了get_ApiData
+2021-05-28 21:45:45.900 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:10 - 使用的是:Membersecret
+2021-05-28 21:45:45.901 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:45:46.086 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "EWWE9X7623W0rTJ7XrJUmDrN8KVJ_4zaa3SCf_hy10XirGv-xJLT7UPDepA56NlWYQ2bTFCxmfA43zn8mr2fC3mpJCJqjo0ckvop3K97m-dXVt4yllOLKkopaiah64aTscPfU4DKIR4yBm8TIwDxa9QVk7-8PndTVt-lSohTj3vNfX3ZMV5lb9R4LlgSe3vkTs264xGhF9OyJsUn3nwF5w",
+  "expires_in": 7200
+}
+2021-05-28 21:45:46.086 | INFO     | weixin_api_two.api.contact.get_wework_token:get_token:19 - 获取的token:EWWE9X7623W0rTJ7XrJUmDrN8KVJ_4zaa3SCf_hy10XirGv-xJLT7UPDepA56NlWYQ2bTFCxmfA43zn8mr2fC3mpJCJqjo0ckvop3K97m-dXVt4yllOLKkopaiah64aTscPfU4DKIR4yBm8TIwDxa9QVk7-8PndTVt-lSohTj3vNfX3ZMV5lb9R4LlgSe3vkTs264xGhF9OyJsUn3nwF5w
+2021-05-28 21:45:46.087 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:45:46.298 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "userlist": [
+    {
+      "userid": "pVfwfVLhdFIraEQoLsUG",
+      "name": "李雷",
+      "department": [
+        1
+      ]
+    },
+    {
+      "userid": "LiWanLi",
+      "name": "李万里",
+      "department": [
+        1
+      ]
+    }
+  ]
+}
+2021-05-28 21:45:46.301 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:9 - 调用了get_ApiData
+2021-05-28 21:45:46.301 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:10 - 使用的是:Administrator
+2021-05-28 21:45:46.302 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:45:46.659 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "deleted"
+}
+2021-05-28 21:45:46.714 | INFO     | weixin_api_two.uitls.contact_info:get_pystr:23 - pystr数据：DKdbDEEQGcEyyPGDZgVQ
+2021-05-28 21:45:46.758 | INFO     | weixin_api_two.uitls.contact_info:get_name:18 - name数据：符彬
+2021-05-28 21:45:46.800 | INFO     | weixin_api_two.uitls.contact_info:get_phonenum:28 - phonenum 数据：18881952610
+2021-05-28 21:45:46.843 | INFO     | weixin_api_two.uitls.contact_info:get_email:33 - email数据：weixia@yahoo.com
+2021-05-28 21:45:46.843 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:45:47.032 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "department": [
+    {
+      "id": 1,
+      "name": "Leewanly",
+      "parentid": 0,
+      "order": 100000000
+    },
+    {
+      "id": 2,
+      "name": "的撒啊",
+      "parentid": 1,
+      "order": 100000000
+    }
+  ]
+}
+2021-05-28 21:45:47.078 | INFO     | weixin_api_two.uitls.contact_info:get_pystr:23 - pystr数据：cnypRlNUrtgLjKvEbNkE
+2021-05-28 21:45:47.120 | INFO     | weixin_api_two.uitls.contact_info:get_name:18 - name数据：朱淑英
+2021-05-28 21:45:47.164 | INFO     | weixin_api_two.uitls.contact_info:get_phonenum:28 - phonenum 数据：18021196021
+2021-05-28 21:45:47.207 | INFO     | weixin_api_two.uitls.contact_info:get_email:33 - email数据：ming86@zhongyao.cn
+2021-05-28 21:45:47.207 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:45:47.410 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "userlist": [
+    {
+      "userid": "LiWanLi",
+      "name": "李万里",
+      "department": [
+        1
+      ]
+    }
+  ]
+}
+2021-05-28 21:45:47.457 | INFO     | weixin_api_two.uitls.contact_info:get_pystr:23 - pystr数据：ElgtAhoXvJQcHlJvgbqb
+2021-05-28 21:45:47.500 | INFO     | weixin_api_two.uitls.contact_info:get_name:18 - name数据：张畅
+2021-05-28 21:45:47.543 | INFO     | weixin_api_two.uitls.contact_info:get_phonenum:28 - phonenum 数据：18924574301
+2021-05-28 21:45:47.586 | INFO     | weixin_api_two.uitls.contact_info:get_email:33 - email数据：iwei@jinglong.cn
+2021-05-28 21:45:47.587 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:45:48.146 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-05-28 21:45:48.148 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:45:48.616 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "userlist": [
+    {
+      "userid": "ElgtAhoXvJQcHlJvgbqb",
+      "name": "张畅",
+      "department": [
+        1
+      ]
+    },
+    {
+      "userid": "LiWanLi",
+      "name": "李万里",
+      "department": [
+        1
+      ]
+    }
+  ]
+}
+2021-05-28 21:45:48.663 | INFO     | weixin_api_two.uitls.contact_info:get_pystr:23 - pystr数据：SpDDjKvhSLwzdDkKKuOc
+2021-05-28 21:45:48.707 | INFO     | weixin_api_two.uitls.contact_info:get_name:18 - name数据：李斌
+2021-05-28 21:45:48.750 | INFO     | weixin_api_two.uitls.contact_info:get_phonenum:28 - phonenum 数据：15248270117
+2021-05-28 21:45:48.793 | INFO     | weixin_api_two.uitls.contact_info:get_email:33 - email数据：na68@gmail.com
+2021-05-28 21:45:48.794 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:45:49.303 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "created"
+}
+2021-05-28 21:45:49.304 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:45:49.530 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "userlist": [
+    {
+      "userid": "ElgtAhoXvJQcHlJvgbqb",
+      "name": "张畅",
+      "department": [
+        1
+      ]
+    },
+    {
+      "userid": "SpDDjKvhSLwzdDkKKuOc",
+      "name": "李斌",
+      "department": [
+        1
+      ]
+    },
+    {
+      "userid": "LiWanLi",
+      "name": "李万里",
+      "department": [
+        1
+      ]
+    }
+  ]
+}
+2021-05-28 21:45:49.531 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:9 - 调用了get_ApiData
+2021-05-28 21:45:49.531 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:10 - 使用的是:Administrator
+2021-05-28 21:45:49.532 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:45:49.858 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "deleted"
+}
+2021-05-28 21:45:49.859 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:45:50.074 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "userlist": [
+    {
+      "userid": "SpDDjKvhSLwzdDkKKuOc",
+      "name": "李斌",
+      "department": [
+        1
+      ]
+    },
+    {
+      "userid": "LiWanLi",
+      "name": "李万里",
+      "department": [
+        1
+      ]
+    }
+  ]
+}
+2021-05-28 21:45:50.081 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:45:50.082 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式url
+2021-05-28 21:45:50.082 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能tag
+2021-05-28 21:45:50.082 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作None
+2021-05-28 21:45:50.084 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:45:50.084 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:45:50.084 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能tag
+2021-05-28 21:45:50.084 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作add
+2021-05-28 21:45:50.086 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:45:50.086 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:45:50.086 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能tag
+2021-05-28 21:45:50.087 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作search
+2021-05-28 21:45:50.088 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:18 - 调用了get_UrlData
+2021-05-28 21:45:50.088 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:19 - 获取方式action
+2021-05-28 21:45:50.089 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:20 - 测试功能tag
+2021-05-28 21:45:50.089 | INFO     | weixin_api_two.uitls.get_data:get_UrlData:21 - 测试动作delete
+2021-05-28 21:45:50.090 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:9 - 调用了get_ApiData
+2021-05-28 21:45:50.091 | INFO     | weixin_api_two.uitls.get_data:get_ApiData:10 - 使用的是:Tagsecret
+2021-05-28 21:45:50.091 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:45:50.289 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "access_token": "en2Ba11KCPCw8hzOs0r3y8L914-EtlOFbDZOnRlrMswKKpPWzA_lunT9U9t5fhLSYpoJh9ZdQgqGJc4d4XfdwLWz3MnBKYwyaLn2WJahS6CdV3nu74w5hOEIzHv2D-xBMJy_KbUx2k6QAHteRqyW18sb6iHz6R8W5n0t00hmKabhDoqSXF1XuJ11aGTIeKlNBd79Kkoe9MyTI63e9j9Ehg",
+  "expires_in": 7200
+}
+2021-05-28 21:45:50.289 | INFO     | weixin_api_two.api.contact.get_wework_token:get_token:19 - 获取的token:en2Ba11KCPCw8hzOs0r3y8L914-EtlOFbDZOnRlrMswKKpPWzA_lunT9U9t5fhLSYpoJh9ZdQgqGJc4d4XfdwLWz3MnBKYwyaLn2WJahS6CdV3nu74w5hOEIzHv2D-xBMJy_KbUx2k6QAHteRqyW18sb6iHz6R8W5n0t00hmKabhDoqSXF1XuJ11aGTIeKlNBd79Kkoe9MyTI63e9j9Ehg
+2021-05-28 21:45:50.289 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:45:50.499 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etxVCNEQAAMhsNTNOigsIrcH63cY4UsA",
+      "group_name": "山西省哈尔滨市梁平董路J座 528352",
+      "create_time": 1622209372,
+      "tag": [
+        {
+          "id": "etxVCNEQAAPQ-WiioAHCWlTQliShPlyQ",
+          "name": "山西省哈尔滨市梁平董路J座 528352",
+          "create_time": 1622209372,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-28 21:45:50.499 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:45:50.753 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-28 21:45:50.797 | INFO     | weixin_api_two.uitls.contact_info:get_text:38 - tag数据：辽宁省娟市锡山黄路V座 518093
+2021-05-28 21:45:50.797 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:45:51.000 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": []
+}
+2021-05-28 21:45:51.049 | INFO     | weixin_api_two.uitls.contact_info:get_text:38 - tag数据：北京市秀英县安次昆明街g座 274969
+2021-05-28 21:45:51.050 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:45:51.276 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etxVCNEQAAzbslGEDn8MN0NfORzkSDyg",
+    "group_name": "北京市秀英县安次昆明街g座 274969",
+    "create_time": 1622209551,
+    "tag": [
+      {
+        "id": "etxVCNEQAA1ZeXlx5pnUgGvh-BgyjwBg",
+        "name": "北京市秀英县安次昆明街g座 274969",
+        "create_time": 1622209551,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-05-28 21:45:51.277 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:45:51.468 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etxVCNEQAAzbslGEDn8MN0NfORzkSDyg",
+      "group_name": "北京市秀英县安次昆明街g座 274969",
+      "create_time": 1622209551,
+      "tag": [
+        {
+          "id": "etxVCNEQAA1ZeXlx5pnUgGvh-BgyjwBg",
+          "name": "北京市秀英县安次昆明街g座 274969",
+          "create_time": 1622209551,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-28 21:45:51.514 | INFO     | weixin_api_two.uitls.contact_info:get_text:38 - tag数据：吉林省哈尔滨市孝南王路a座 170161
+2021-05-28 21:45:51.515 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:45:51.705 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etxVCNEQAAzbslGEDn8MN0NfORzkSDyg",
+      "group_name": "北京市秀英县安次昆明街g座 274969",
+      "create_time": 1622209551,
+      "tag": [
+        {
+          "id": "etxVCNEQAA1ZeXlx5pnUgGvh-BgyjwBg",
+          "name": "北京市秀英县安次昆明街g座 274969",
+          "create_time": 1622209551,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}
+2021-05-28 21:45:51.705 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:45:51.973 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": {
+    "group_id": "etxVCNEQAA5bctxVzNOKXGdza6kL_eAA",
+    "group_name": "吉林省哈尔滨市孝南王路a座 170161",
+    "create_time": 1622209551,
+    "tag": [
+      {
+        "id": "etxVCNEQAAdBQp0h-sFdUgCJE3XYdIRw",
+        "name": "吉林省哈尔滨市孝南王路a座 170161",
+        "create_time": 1622209551,
+        "order": 0
+      }
+    ],
+    "order": 0
+  }
+}
+2021-05-28 21:45:51.973 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:45:52.283 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok"
+}
+2021-05-28 21:45:52.284 | INFO     | weixin_api_two.base.apipage:request:20 - 使用Http协议测试
+2021-05-28 21:45:52.488 | INFO     | weixin_api_two.base.apipage:http_request:26 - 接口请求数据：{
+  "errcode": 0,
+  "errmsg": "ok",
+  "tag_group": [
+    {
+      "group_id": "etxVCNEQAAzbslGEDn8MN0NfORzkSDyg",
+      "group_name": "北京市秀英县安次昆明街g座 274969",
+      "create_time": 1622209551,
+      "tag": [
+        {
+          "id": "etxVCNEQAA1ZeXlx5pnUgGvh-BgyjwBg",
+          "name": "北京市秀英县安次昆明街g座 274969",
+          "create_time": 1622209551,
+          "order": 0
+        }
+      ],
+      "order": 0
+    }
+  ]
+}

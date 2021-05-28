@@ -14,3 +14,4 @@
 - [app 企业微信实战2](https://github.com/liwanli123/HogwartProjectPractice/tree/master/Hogwarts_appium_2)
 - [mock实战2](https://github.com/liwanli123/HogwartProjectPractice/tree/master/test_mock)
 - [企业微信接口测试实战1](https://github.com/liwanli123/HogwartProjectPractice/tree/master/weixin_api)
+- [企业微信接口测试实战2](https://github.com/liwanli123/HogwartProjectPractice/tree/master/weixin_api_two)

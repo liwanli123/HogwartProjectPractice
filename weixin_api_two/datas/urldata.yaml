@@ -1,0 +1,16 @@
+url:
+  tag: 'https://qyapi.weixin.qq.com/cgi-bin/externalcontact/'
+  member: 'https://qyapi.weixin.qq.com/cgi-bin/user/'
+  department: 'https://qyapi.weixin.qq.com/cgi-bin/department/'
+action:
+  tag:
+    search: 'get_corp_tag_list'
+    add: 'add_corp_tag'
+    delete: 'del_corp_tag'
+  member:
+    search: 'simplelist'
+    create: 'create'
+    delete: 'delete'
+    deletelist: 'batchdelete'
+  department:
+    search: 'list'
